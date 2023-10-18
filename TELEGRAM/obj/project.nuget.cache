@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "WJ5JC4i/IaG2/hngxh/DHfeNAFeh+PR39KeLYPQW0rEbqnYuAw7/pvsfOrYDBhVaUf+oZ45wsbNWMJRrSBz+0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\supre\\source\\repos\\TELEGRAM_TEST\\TELEGRAM_TEST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\supre\\.nuget\\packages\\dapper\\2.1.4\\dapper.2.1.4.nupkg.sha512",
+    "C:\\Users\\supre\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\supre\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\supre\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
+    "C:\\Users\\supre\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
